@@ -1,6 +1,4 @@
-<div align="center">
-    <img width="250" src="resources/images/xshop-logo.svg" alt="xShop logo">
-</div>
+
 
 # xShop/v2
 
